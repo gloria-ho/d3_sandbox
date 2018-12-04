@@ -1,3 +1,3 @@
 # D3.js Data-Driven Documents
 
-Demo code
+Demo code for D3
